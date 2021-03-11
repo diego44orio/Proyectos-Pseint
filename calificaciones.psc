@@ -11,5 +11,5 @@ Algoritmo PROBLEMA_2
 	Escribir 'Ingrese la calificacion de Modulo Profecional'
 	Leer modulo_profesional
 	promedio <- (ingles+quimica+geometria+leoye+modulo_profesional)/5
-	Escribir 'El promedio general es de',promedio
+	Escribir 'El promedio general es de',promedio;
 FinAlgoritmo
